@@ -9,6 +9,8 @@
 - invoice
 - invoice details
 
+![clinic_diagram](https://user-images.githubusercontent.com/104019280/199406847-a3a75184-fc77-4287-ab3c-5cc68b78238d.png)
+
 ## Built With
 
 - Major languages: SQL and PostgreSQL
